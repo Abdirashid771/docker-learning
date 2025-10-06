@@ -18,8 +18,8 @@ docker-compose up
 
 Then visit:
 
-http://localhost:5000
-http://localhost:5000/count
+http://localhost:5002
+http://localhost:5002/count
 
 To stop:
 
